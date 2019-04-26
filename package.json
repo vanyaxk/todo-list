@@ -1,0 +1,27 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "ToDo List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gw": "node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanyaxk/todo-list.git"
+  },
+  "author": "i.kohut@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanyaxk/todo-list.git/issues"
+  },
+  "homepage": "https://github.com/vanyaxk/todo-list.git",
+  "devDependencies": {
+    "browser-sync": "^2.26.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
